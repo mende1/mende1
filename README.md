@@ -3,8 +3,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavo-mendel&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-mendel&repo=jogos-com-python&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **gustavo-mendel/gustavo-mendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
