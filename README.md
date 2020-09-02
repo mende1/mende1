@@ -5,7 +5,7 @@
 
 :books: Currently, I'm a Computer Science student at Federal University of Bahia (UFBA - in portuguese), Brazil. 
 
-:clipboard: And volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA ([@InfoJrUFBA](https://github.com/InfoJrUFBA)) where I'm member of Project Board, which I have interested in Infra & Sec, and Project Management.
+And volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA ([@InfoJrUFBA](https://github.com/InfoJrUFBA)) where I'm member of Project Board, which I have interested in Infra & Sec, and Project Management. :green_heart:
 
 ---
 
