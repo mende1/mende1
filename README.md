@@ -35,7 +35,7 @@
 
 ---
 
-#### Would you like to find me? :email:
+#### Would you like to find me? 📫
 
 - :link: [LinkedIn](https://www.linkedin.com/in/gustavo-mendel-6877691a3/)
 - :link: [Facebook](https://www.facebook.com/mendeuba)
