@@ -11,7 +11,7 @@
 
 #### A little more about me
 
-- I'm a Backend developer. Terminal lover.
+- I'm a Backend developer. Terminal lover. ![Terminal](https://github.com/MarcelSSouza/guscel.github.io/blob/master/assets/favicon.png)
 - Very enthusiastic of the Unix World. I love Linux distributions, I look for test each one everyday and study your kernel and Terminal commands. Currently, I using Manjaro with KDE, and I'm love it. :penguin:
 
 ---
