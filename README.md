@@ -12,7 +12,7 @@ I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA
 #### A little more about me :running:
 
 - I'm a Backend developer and a terminal lover. ![Terminal](https://github.com/MarcelSSouza/guscel.github.io/blob/master/assets/favicon.png)
-- Very enthusiastic about the Unix World. I love Linux distributions, I try each of those everyday and study their kernel and Terminal commands. By now, I using Manjaro with KDE, and I love it. :penguin:
+- Very enthusiastic about the Unix World. I love Linux distributions, I try each of those everyday and study their kernel and Terminal commands. By now, I using Gnome Pop!_OS, and I love it. :penguin:
 - Yes, I'm at an intermediate level of English. I look train and study each day more. :us:
 
 ---
@@ -28,7 +28,7 @@ I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA
 #### I've been working with :ballot_box_with_check:
 
 - **Infra & Sec:** Deploy, Docker, Database Management, Continuous Intagration (like GitLab C.I. and GitHub Action), SSH connection and Criptografy.
-- **Math, Data structure, Algorithm, Linear Algebra.**
+- **Math, Data structure, Algorithm.**
 - **NodeJS** (with Adonis and Express)
 - **Langs**: Python, Rust, C/C++, Ruby
 - **Shell Script, Vim Script, Basic C and C++**
@@ -37,7 +37,7 @@ I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA
 
 #### Would you like to find me? 📫
 
-- :link: [LinkedIn](https://www.linkedin.com/in/gustavo-mendel-6877691a3/)
-- :link: [Facebook](https://www.facebook.com/mendeuba)
+- :link: [LinkedIn](https://www.linkedin.com/in/gustavo-mendel)
+
 ##### Contact me:
 - :email: gustavo.mendel.br@gmail.com
