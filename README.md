@@ -32,6 +32,8 @@ I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA
 - **NodeJS** (with Adonis and Express)
 - **Langs**: Python, Rust, C/C++, Ruby
 - **Shell Script, Vim Script, Basic C and C++**
+- **Computer Science** 
+> Click [here](https://github.com/gustavo-mendel/meus-projetos-da-faculdade) for see my College Works and Study (in Portuguese)
 
 ---
 
