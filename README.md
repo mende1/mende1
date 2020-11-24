@@ -20,7 +20,7 @@ I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA
 #### Some skills as developer :triangular_flag_on_post:
 
 - I have basic experiencie with Front-end. HTML5, CSS3 and JavaScript (Vanilla and React).
-- Backend languages, like Python, C/C++, this one I study in College, PHP. And nowadays, NodeJS (with Adonis and Express).
+- Backend languages, like Python, C/C++, this one I study in College. And nowadays, NodeJS (with Adonis and Express).
 - Project Management with version-controller Git.
 
 ---
