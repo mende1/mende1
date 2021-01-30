@@ -11,7 +11,7 @@ I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA
 
 #### A little more about me :running:
 
-- I'm a terminal lover. ![Terminal](https://github.com/MarcelSSouza/guscel.github.io/blob/master/assets/favicon.png)
+- I'm a terminal lover. ![Terminal](https://github.com/guscel/guscel.github.io/blob/master/assets/favicon.png)
 - Very enthusiastic about the Unix World. I love Linux distributions, I try each of those everyday and study their kernel and Terminal commands. By now, I using Gnome Pop!_OS, and I love it. :penguin:
 
 ---
