@@ -1,3 +1,5 @@
+<img src="math.svg" width="300" align="right">
+
 ### Mendel :dizzy:
 ---
 
