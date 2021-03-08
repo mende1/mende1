@@ -1,5 +1,3 @@
-<img src="404.svg" width="300" align="right">
-
 ### Mendel :dizzy:
 ---
 
@@ -20,6 +18,8 @@ I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA
 > Click [here](https://github.com/gustavo-mendel/meus-projetos-da-faculdade) to see my College Works and Study (in Portuguese)
 
 ---
+
+<img src="404.svg" width="300" align="right">
 
 #### Would you like to find me? 📫
 
