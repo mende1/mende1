@@ -14,7 +14,8 @@ I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA
 #### I've been working with :ballot_box_with_check:
 
 - **Math, Data structure, Algorithm, Object-oriented Programming**
-- **Langs**: Python, C/C++, Java, Front-end (with React).
+- **Langs**: Python, C/C++, Java.
+- **Front-end** with React.
 - **Computer Science as a whole** 
 > Click [here](https://github.com/gustavo-mendel/meus-projetos-da-faculdade) to see my College Works and Study (in Portuguese)
 
