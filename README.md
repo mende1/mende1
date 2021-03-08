@@ -1,4 +1,4 @@
-<img src="math.svg" width="300" align="right">
+<img src="404.svg" width="300" align="right">
 
 ### Mendel :dizzy:
 ---
