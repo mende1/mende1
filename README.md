@@ -5,7 +5,7 @@
 
 :books: Computer Science student at Federal University of Bahia (UFBA), Brazil. 
 
-I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA ([@InfoJrUFBA](https://github.com/InfoJrUFBA)) :green_heart:
+I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA ([@InfoJrUFBA](https://github.com/InfoJrUFBA)), Infrastructure and Security Manager :green_heart:
 
 ---
 
