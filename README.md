@@ -5,13 +5,14 @@
 
 :books: Computer Science student at Federal University of Bahia (UFBA), Brazil. 
 
-I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA ([@InfoJrUFBA](https://github.com/InfoJrUFBA)). :green_heart:
+I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA ([@InfoJrUFBA](https://github.com/InfoJrUFBA)) :green_heart:
 
 ---
 
 #### I've been working with :ballot_box_with_check:
 
 - **Math, Data structure, Algorithm, Object-oriented Programming**
+- Infra, Linux Terminal, Git, Docker, Deploy, CI/CD.
 - **Langs**: Python, C/C++, Java.
 - **Front-end** with React.
 - **Computer Science as a whole** 
