@@ -16,7 +16,7 @@ I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA
 - **Langs**: Python, C/C++, Java.
 - **Front-end** with React.
 - **Computer Science as a whole** 
-> Click [here](https://github.com/gustavo-mendel/meus-projetos-da-faculdade) to see my College Works and Study (in Portuguese)
+> Click [here](https://github.com/gustavo-mendel/meus-projetos-da-faculdade) to see my academic works (in Portuguese).
 
 ---
 
