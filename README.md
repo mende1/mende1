@@ -1,5 +1,4 @@
 ### Mendel
----
 
 * Computer science student at [UFBA](https://ufba.br)
 
