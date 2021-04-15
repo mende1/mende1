@@ -1,22 +1,19 @@
-### Mendel :dizzy:
+### Mendel
 ---
 
-##### Hello there. I'm Gustavo Mendel, a young lover and enthusiastic about technology. 
+:books: Computer Science student at [UFBA](https://ufba.br)
 
-:books: Computer Science student at Federal University of Bahia (UFBA), Brazil. 
-
-I am also volunteer at the Junior Enterprise of Computing Science InfoJr of UFBA ([@InfoJrUFBA](https://github.com/InfoJrUFBA)), Infrastructure and Security Manager :green_heart:
+Developer and Infrastructure Manager at [@InfoJrUFBA](https://infojr.com.br).
 
 ---
 
 #### I've been working with :ballot_box_with_check:
 
-- **Math, Data structure, Algorithm, Object-oriented Programming**
-- Infra, Linux Terminal, Git, Docker, Deploy, CI/CD.
-- **Langs**: Python, C/C++, Java.
-- **Front-end** with React.
-- **Computer Science as a whole** 
-> Click [here](https://github.com/gustavo-mendel/meus-projetos-da-faculdade) to see my academic works (in Portuguese).
+- **Math, Data structure, Algorithm, Object-oriented Programming**.
+- **Infra, Linux Terminal, Git, Docker, Deploy, CI/CD**.
+- **Front-end**.
+- **Computer Science as a whole**.
+> Click [here](https://github.com/mende1/meus-projetos-da-faculdade) to see my academic works (in Portuguese).
 
 ---
 
