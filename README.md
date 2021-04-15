@@ -7,20 +7,15 @@
 ---
 
 #### I've been working with :ballot_box_with_check:
+<img src="mind.svg" width="250" align="right">
 
 - **Math, Data structure, Algorithm, Object-oriented Programming**.
 - **Infra, Linux Terminal, Git, Docker, Deploy, CI/CD**.
 - **Front-end**.
 - **Computer Science as a whole**.
+- [LinkedIn](https://www.linkedin.com/in/gustavo-mendel)
 > Click [here](https://github.com/mende1/meus-projetos-da-faculdade) to see my academic works (in Portuguese).
 
 ---
 
-<img src="404.svg" width="300" align="right">
 
-#### Would you like to find me? 📫
-
-- :link: [LinkedIn](https://www.linkedin.com/in/gustavo-mendel)
-
-##### Contact me:
-- :email: gustavo.mendel.br@gmail.com
