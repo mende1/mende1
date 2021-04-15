@@ -1,8 +1,8 @@
 ### Mendel
 
-* Computer science student at [UFBA](https://ufba.br)
+Computer science student at [UFBA](https://ufba.br)
 
-* Developer and Infrastructure Manager at [@InfoJrUFBA](https://infojr.com.br).
+Developer and Infrastructure Manager at [@InfoJrUFBA](https://infojr.com.br).
 
 ---
 
