@@ -13,7 +13,7 @@
 - **Front-end**.
 - **Computer Science as a whole**.
 - [LinkedIn](https://www.linkedin.com/in/gustavo-mendel)
-> Click [here](https://github.com/mende1/meus-projetos-da-faculdade) to see my academic works (in Portuguese).
+> Click [here](https://github.com/mende1/projetos-da-faculdade) to see my academic works (in Portuguese).
 
 ---
 
