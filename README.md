@@ -9,6 +9,7 @@
 <img src="mind.svg" width="250" align="right">
 
 - **Math, Data structure, Algorithm, Object-oriented Programming**.
+- **Programming Contests**
 - **Infra, Linux Terminal, Git, Docker, Deploy, CI/CD**.
 - **Front-end**.
 - **Computer Science as a whole**.
