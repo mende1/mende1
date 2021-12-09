@@ -15,3 +15,5 @@
 - **Computer Science as a whole**.
 - [LinkedIn](https://www.linkedin.com/in/gustavo-mendel)
 > Click [here](https://github.com/mende1/projetos-da-faculdade) to see my academic works (in Portuguese).
+> 
+> See my website [mende1.com.br](https://mende1.com.br)
