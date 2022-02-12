@@ -11,7 +11,7 @@
 - **Math, Data structure, Algorithm, Object-oriented Programming**.
 - **Programming Contests**
 - **Infra, Linux Terminal, Git, Docker, Deploy, CI/CD**.
-- **Front-end**.
+- **Back-end with Node using NestJS**.
 - **Computer Science as a whole**.
 - [LinkedIn](https://www.linkedin.com/in/gustavo-mendel)
 > Click [here](https://github.com/mende1/projetos-da-faculdade) to see my academic works (in Portuguese).
