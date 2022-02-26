@@ -1,7 +1,9 @@
 ### Mendel
 
-* **Computer science student at [UFBA](https://ufba.br)**
-* **Project Manager at [@InfoJrUFBA](https://infojr.com.br).**
+#### Currently:
+* **Computer science student at [UFBA](https://bcc.ufba.br)**
+* **Project Manager at [InfoJrUFBA](https://infojr.com.br).**
+* **Intern Software Engineer at [Zumtec](https://zumtec.com.br)**
 
 ---
 
@@ -11,7 +13,7 @@
 - **Math, Data structure, Algorithm, Object-oriented Programming**.
 - **Programming Contests**
 - **Infra, Linux Terminal, Git, Docker, Deploy, CI/CD**.
-- **Back-end with Node using NestJS**.
+- **Back-end with Node using NestJS and with Python using Flask**.
 - **Computer Science as a whole**.
 - [LinkedIn](https://www.linkedin.com/in/gustavo-mendel)
 > Click [here](https://github.com/mende1/projetos-da-faculdade) to see my academic works (in Portuguese).
