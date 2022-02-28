@@ -16,7 +16,7 @@
 - **Back-end with Node using NestJS and with Python using Flask**.
 - **Computer Science as a whole**.
 
-> Click [here](https://www.linkedin.com/in/gustavo-mendel) to see my LinkedIn.
+> Click [here](https://www.linkedin.com/in/mende1) to see my LinkedIn.
 > 
 > Click [here](https://github.com/mende1/projetos-da-faculdade) to see my academic works (in Portuguese).
 > 
