@@ -3,7 +3,7 @@
 #### Currently:
 * **Computer science student at [UFBA](https://bcc.ufba.br)**.
 * **Project Manager at [InfoJrUFBA](https://infojr.com.br)**.
-* **Intern Software Engineer at [Zumtec](https://zumtec.com.br)**.
+* **Software Engineer Intern at [Zumtec](https://zumtec.com.br)**.
 
 ---
 
