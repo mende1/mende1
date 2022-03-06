@@ -33,3 +33,9 @@
 <a href="mailto:gustavo.mendel.br@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail-gustavo-mendel" height="20" width="30" /> </a>
 <a href="https://discordapp.com/users/374951479728930817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gustavo Mendel#3727" height="30" width="40" /> </a>
 </p>
+
+<br>
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/?count_private=true&include_all_commits=true&username=mende1&show_icons=false&locale=en&layout=compact&theme=dark&title_color=C33636&text_color=ffffff" alt="mende1" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mende1&theme=dark&" alt="mende1" /></p>
