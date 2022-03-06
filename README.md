@@ -2,23 +2,26 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mende1&color=561313&style=plastic" alt="mende1"/> </p>
 
-#### I'm currently:
-* **Computer science student at [UFBA](https://bcc.ufba.br)**.
-* **Project Manager at [InfoJrUFBA](https://infojr.com.br) being a volunteer.**.
-* **Software Engineer Intern at [Zumtec](https://zumtec.com.br)**.
+<h3 align="left">I'm currently:</h3>
+
+* Computer science student at [UFBA](https://bcc.ufba.br).
+* Project Manager at [InfoJrUFBA](https://infojr.com.br) being a volunteer.
+* Software Engineer Intern at [Zumtec](https://zumtec.com.br).
 
 ---
 
-#### I've been working with :ballot_box_with_check:
+<h3 align="left">I've been working with:</h3>
 <img src="img.svg" width="250" align="right">
 
-- **Math, Data structure, Algorithm, Object-oriented Programming**.
-- **Programming Contests**.
-- **Infra, Linux Terminal, Git, Docker, Deploy, CI/CD**.
-- **Back-end with Node using NestJS and with Python using Flask**.
-- **Computer Science as a whole**.
+- Math, Data structure, Algorithm, Object-oriented Programming.
+- Programming Contests.
+- Infra, Linux Terminal, Git, Docker, Deploy, CI/CD.
+- Back-end with Node using NestJS and with Python using Flask.
+- Computer Science as a whole.
 
-> Click [here](https://github.com/mende1/projetos-da-faculdade) to see my academic works (in Portuguese).
+<br>
+
+> See my [academic works](https://github.com/mende1/projetos-da-faculdade) (in Portuguese).
 > 
 > See my website [mende1.com.br](https://mende1.com.br)
 
