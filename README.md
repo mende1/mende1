@@ -37,5 +37,4 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/?count_private=true&include_all_commits=true&username=mende1&show_icons=false&locale=en&layout=compact&theme=dark&title_color=C33636&text_color=ffffff" alt="mende1" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mende1&theme=dark&" alt="mende1" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/?count_private=true&include_all_commits=true&username=mende1&show_icons=false&locale=en&layout=compact&theme=dark&title_color=C33636&text_color=ffffff" alt="mende1" /></p>
