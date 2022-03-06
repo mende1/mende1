@@ -21,3 +21,5 @@
 > Click [here](https://github.com/mende1/projetos-da-faculdade) to see my academic works (in Portuguese).
 > 
 > See my website [mende1.com.br](https://mende1.com.br)
+
+![](https://hit.yhype.me/github/profile?user_id=55323701)
