@@ -6,7 +6,6 @@
 
 * Computer science student at [UFBA](https://bcc.ufba.br).
 * Project Manager at [InfoJrUFBA](https://infojr.com.br) being a volunteer.
-* Software Engineer Intern at [Zumtec](https://zumtec.com.br).
 
 ---
 
