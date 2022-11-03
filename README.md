@@ -5,7 +5,6 @@
 <h3 align="left">I'm currently:</h3>
 
 * Computer science student at [UFBA](https://bcc.ufba.br).
-* Front-end Developer Intern at [MobApps](https://mobapps.com.br).
 
 ---
 
