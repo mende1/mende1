@@ -14,7 +14,7 @@
 - Math, Data structure, Algorithm, Object-oriented Programming.
 - Programming Contests.
 - Infra, Linux Terminal, Git, Docker, Deploy, CI/CD.
-- Front-end with ReactJs, working with React-hook-form, ContextAPI and Redux.
+- The programming language Ruby and the Web Developer Framework Ruby on Rails.
 - Computer Science as a whole.
 
 <br>
