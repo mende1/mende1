@@ -5,6 +5,7 @@
 <h3 align="left">I'm currently:</h3>
 
 * Computer science student at [UFBA](https://bcc.ufba.br).
+* Ruby on Rails Developer Intern at [SpotPass](http://www.spotpass.com.br/).
 
 ---
 
@@ -12,9 +13,8 @@
 <img src="img.svg" width="250" align="right">
 
 - Math, Data structure, Algorithm, Object-oriented Programming.
-- Programming Contests.
 - Infra, Linux Terminal, Git, Docker, Deploy, CI/CD.
-- The programming language Ruby and the Web Developer Framework Ruby on Rails.
+- Ruby on Rails.
 - Computer Science as a whole.
 
 <br>
