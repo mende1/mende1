@@ -1,7 +1,5 @@
 ### Gustavo Mendel
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mende1&color=561313&style=plastic" alt="mende1"/> </p>
-
 <h3 align="left">I'm currently:</h3>
 
 * Computer science student at [UFBA](https://bcc.ufba.br).
