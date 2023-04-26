@@ -25,7 +25,7 @@
 
 <h3 align="left">Get In Touch:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mende1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mende1" height="20" width="30" /> </a>
+<a href="https://linkedin.com/in/gustavo-mendel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mende1" height="20" width="30" /> </a>
 <a href="mailto:gustavo.mendel.br@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail-gustavo-mendel" height="20" width="30" /> </a>
 <a href="https://discordapp.com/users/374951479728930817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gustavo Mendel#3727" height="30" width="40" /> </a>
 
