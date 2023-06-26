@@ -20,5 +20,3 @@
 > See my [academic works](https://github.com/mende1/projetos-da-faculdade) (in Portuguese).
 > 
 > See my website [mende1.github.io](https://mende1.github.io) (Under development)
-
----
