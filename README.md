@@ -19,4 +19,4 @@
 
 > See my [academic works](https://github.com/mende1/projetos-da-faculdade) (in Portuguese).
 > 
-> See my website [mende1.github.io](https://mende1.github.io) (Under development)
+> See my website [gustavomendel.com](https://gustavomendel.com) (Under development)
