@@ -1,4 +1,4 @@
-### Gustavo Mendel
+# Gustavo Mendel - Software Engineering
 
 <h3 align="left">I'm currently:</h3>
 
