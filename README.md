@@ -3,7 +3,7 @@
 <h3 align="left">I'm currently:</h3>
 
 * Computer science student at [UFBA](https://bcc.ufba.br).
-* Ruby on Rails Developer Intern at [SpotPass](http://www.spotpass.com.br/).
+* Ruby on Rails Developer at [SpotPass](http://www.spotpass.com.br/).
 
 ---
 
