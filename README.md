@@ -1,5 +1,7 @@
 # Gustavo Mendel - Software Engineering
 
+[gustavomendel.com](https://gustavomendel.com)
+
 <h3 align="left">I'm currently:</h3>
 
 * Computer science student at [UFBA](https://bcc.ufba.br).
@@ -18,5 +20,4 @@
 <br>
 
 > See my [academic works](https://github.com/mende1/projetos-da-faculdade) (in Portuguese).
-> 
-> See my website [gustavomendel.com](https://gustavomendel.com) (Under development)
+>
